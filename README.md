@@ -7,6 +7,9 @@ Type like piano-chords to enter binary values that represent characters in the A
 For CircuitPython on a Raspberry Pi Pico 2 W
 Requires Adafruit_HID: https://github.com/adafruit/Adafruit_CircuitPython_HID/
 
+![Binary Chords](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChords.jpg)
+
+![Binary Chords Wiring](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChordsWiring.jpg)
 
 ## Reference Table
 
@@ -108,3 +111,9 @@ Requires Adafruit_HID: https://github.com/adafruit/Adafruit_CircuitPython_HID/
 | 0111-1101 | 125 | } | Right brace |
 | 0111-1110 | 126 | ~ | Tilde |
 | 0111-1111 | 127 | DEL | Delete |
+
+## Prototype
+
+Based on this prototype I made for a joke at [my local hackerspace](https://www.ballarathackerspace.org.au):
+
+![Binary Chords Prototype](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChordsPrototype.jpg)
