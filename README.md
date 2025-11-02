@@ -4,12 +4,23 @@ An 8-key chording binary keyboard. Because why not?
 
 Type like piano-chords to enter binary values that represent characters in the ASCII table.
 
-For CircuitPython on a Raspberry Pi Pico 2 W
+Made using CircuitPython on a Raspberry Pi Pico 2 W.
 Requires Adafruit_HID: https://github.com/adafruit/Adafruit_CircuitPython_HID/
 
 ![Binary Chords](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChords.jpg)
 
 ![Binary Chords Wiring](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChordsWiring.jpg)
+
+## Binary Chords - The Game
+
+I made a small PyGame game in the "Binary Chords Game" folder that lets you use your normal keyboard (ASDF/HJKL) to practice doing the binary chords while you wait for your Binary Chords keyboard chassis to print.
+
+![Binary Chords - The Game](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChordsTheGame.png)
+
+
+... I officially think this joke has gotten out of control now.
+
+... ... VR version next?
 
 ## Reference Table
 
