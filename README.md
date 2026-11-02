@@ -128,3 +128,18 @@ I made a small PyGame game in the "Binary Chords Game" folder that lets you use 
 Based on this prototype I made for a joke at [my local hackerspace](https://www.ballarathackerspace.org.au):
 
 ![Binary Chords Prototype](https://github.com/obsoletenerd/binary-chords/blob/main/BinaryChordsPrototype.jpg)
+
+## Licensing
+
+The software, including the keyboard firmware and Binary Chords Game,
+is licensed under the MIT licence. See LICENSE.txt.
+
+Hardware design materials authored by this project's author, including
+the case STL and wiring diagram, are licensed under the CERN Open
+Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0).
+See LICENSE-HARDWARE.txt.
+
+Third-party materials retain their respective licences.
+
+A link back to this repository is appreciated but is not an additional
+licence condition.
