@@ -1,3 +1,5 @@
+# MIT License
+
 https://opensource.org/license/mit
 
 Copyright 2025 ObsoleteNerd

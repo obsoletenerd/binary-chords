@@ -67,7 +67,7 @@ I made a small PyGame game in the "Binary Chords Game" folder that lets you use 
 | 0100-0110 | 70 | F | Uppercase F |
 | 0100-0111 | 71 | G | Uppercase G |
 | 0100-1000 | 72 | H | Uppercase H |
-| 0100-1001 | 73 | I | Uppercase I |!
+| 0100-1001 | 73 | I | Uppercase I |
 | 0100-1010 | 74 | J | Uppercase J |
 | 0100-1011 | 75 | K | Uppercase K |
 | 0100-1100 | 76 | L | Uppercase L |
@@ -132,12 +132,12 @@ Based on this prototype I made for a joke at [my local hackerspace](https://www.
 ## Licensing
 
 The software, including the keyboard firmware and Binary Chords Game,
-is licensed under the MIT licence. See LICENSE.txt.
+is licensed under the MIT licence. See [LICENSE.txt](LICENSE.txt).
 
 Hardware design materials authored by this project's author, including
 the case STL and wiring diagram, are licensed under the CERN Open
 Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0).
-See LICENSE-HARDWARE.txt.
+See [LICENSE-HARDWARE.txt](LICENSE-HARDWARE.txt).
 
 Third-party materials retain their respective licences.
 
